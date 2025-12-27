@@ -1,0 +1,9 @@
+pandas
+numpy
+plotly
+streamlit
+scikit-learn
+sqlalchemy
+ydata-profiling
+openpyxl
+psycopg2-binary
